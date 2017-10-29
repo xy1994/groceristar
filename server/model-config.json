@@ -8,55 +8,55 @@
     ]
   },
   "user": {
-    "dataSource": "groceryDS",
+    "dataSource": "grocery",
     "public": true
   },
   "accessToken": {
-    "dataSource": "groceryDS",
+    "dataSource": "grocery",
     "public": false
   },
   "userCredential": {
-    "dataSource": "groceryDS",
+    "dataSource": "grocery",
     "public": false
   },
   "userIdentity": {
-    "dataSource": "groceryDS",
+    "dataSource": "grocery",
     "public": false
   },
   "ACL": {
-    "dataSource": "groceryDS",
+    "dataSource": "grocery",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "groceryDS",
+    "dataSource": "grocery",
     "public": false
   },
   "Role": {
-    "dataSource": "groceryDS",
+    "dataSource": "grocery",
     "public": false
   },
   "Department": {
-    "dataSource": "groceryDS",
+    "dataSource": "grocery",
     "public": true
   },
   "Grocery": {
-    "dataSource": "groceryDS",
+    "dataSource": "grocery",
     "public": true
   },
   "Ingredient": {
-    "dataSource": "groceryDS",
+    "dataSource": "grocery",
     "public": true
   },
   "Item": {
-    "dataSource": "groceryDS",
+    "dataSource": "grocery",
     "public": true
   },
   "userFav": {
-    "dataSource": "groceryDS",
+    "dataSource": "grocery",
     "public": true
   },
   "userGrocery": {
-    "dataSource": "groceryDS",
+    "dataSource": "grocery",
     "public": true
   }
 }

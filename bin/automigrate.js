@@ -3,7 +3,7 @@
 var path     = require('path');
 
 let app      = require(path.resolve(__dirname, '../server/server'));
-var database = app.datasources.groceryDS;
+var database = app.datasources.grocery;
 
 
 var lbTables = [

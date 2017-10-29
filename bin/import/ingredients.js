@@ -11,23 +11,23 @@ var relation2   = 'ingredientIds';
 function getIngredients(departments){
 
 
-	var ingredients = [
-  	{ 
-  		name: "Asparagus",
+    var ingredients = [
+    { 
+        name: "Asparagus",
         departmentId: departments[0].id
-  	},
-  	{ 
+    },
+    { 
         name: "Broccoli",
         departmentId: departments[0].id
     },
     { 
         name: "Carrots",
         departmentId: departments[0].id
-  	},
-  	{  
+    },
+    {  
         name: "Cauliflower",
         departmentId: departments[0].id
-  	},
+    },
     {  
         name: "Celery",
         departmentId: departments[0].id
@@ -844,12 +844,7 @@ function getIngredients(departments){
     {         
     name:'Wax paper',departmentId: departments[21].id
     },
-    ///
-
-
-
-
-    ///
+   
     {         
     name:'Air freshener',departmentId: departments[23].id
     },
@@ -895,10 +890,6 @@ function getIngredients(departments){
     },
     ///
     
-
-    
-
-
     ///
     {         
     name:'Automotive',departmentId: departments[25].id
@@ -927,14 +918,12 @@ function getIngredients(departments){
     name:'Random impulse buy',departmentId: departments[25].id
     }
     ///
-
-    ///
     
 
-	];
+    ];
 
 
-	return ingredients;
+    return ingredients;
 };
 
 
